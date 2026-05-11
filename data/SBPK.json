@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-05-11T11:43:07.259953+00:00",
+  "updated_at": "2026-05-11T14:59:22.399113+00:00",
   "airport_icao": "SBPK",
   "airport_name": "SBPK",
   "source": "AviationStack",
-  "arrivals": [],
+  "arrivals": [
+    {
+      "callsign": "LA3250",
+      "airline": "LATAM Airlines",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-05-11T18:30:00+00:00",
+      "time_iso": "2026-05-11T18:30:00+00:00",
+      "status": "programado"
+    }
+  ],
   "departures": []
 }
