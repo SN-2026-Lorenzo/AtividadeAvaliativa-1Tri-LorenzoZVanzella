@@ -1,25 +1,16 @@
 {
-  "updated_at": "2026-05-13T14:39:51.791252+00:00",
+  "updated_at": "2026-05-14T14:20:21.235924+00:00",
   "airport_icao": "SBPK",
   "airport_name": "SBPK",
   "source": "AviationStack",
   "arrivals": [
     {
-      "callsign": "LA3250",
-      "airline": "LATAM Airlines",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-05-13T18:30:00+00:00",
-      "time_iso": "2026-05-13T18:30:00+00:00",
-      "status": "programado"
-    },
-    {
       "callsign": "G32134",
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-05-12T14:55:00+00:00",
-      "time_iso": "2026-05-12T15:54:00+00:00",
+      "scheduled": "2026-05-14T14:55:00+00:00",
+      "time_iso": "2026-05-14T14:55:00+00:00",
       "status": "programado"
     },
     {
@@ -27,9 +18,27 @@
       "airline": "Azul",
       "airport": "SBPA",
       "airport_name": "Porto Alegre",
-      "scheduled": "2026-05-12T11:30:00+00:00",
-      "time_iso": "2026-05-12T11:30:00+00:00",
+      "scheduled": "2026-05-14T11:30:00+00:00",
+      "time_iso": "2026-05-14T11:11:00+00:00",
       "status": "em voo"
+    },
+    {
+      "callsign": "QR5285",
+      "airline": "Qatar Airways",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-05-13T18:30:00+00:00",
+      "time_iso": "2026-05-13T18:20:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "LA3250",
+      "airline": "LATAM Airlines",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-05-13T18:30:00+00:00",
+      "time_iso": "2026-05-13T18:20:00+00:00",
+      "status": "pousado"
     }
   ],
   "departures": [
@@ -38,8 +47,8 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-05-12T15:35:00+00:00",
-      "time_iso": "2026-05-12T16:42:00+00:00",
+      "scheduled": "2026-05-14T15:35:00+00:00",
+      "time_iso": "2026-05-14T15:35:00+00:00",
       "status": "programado"
     },
     {
@@ -47,8 +56,26 @@
       "airline": "Azul",
       "airport": "SBPA",
       "airport_name": "Porto Alegre",
-      "scheduled": "2026-05-12T12:05:00+00:00",
-      "time_iso": "2026-05-12T12:04:00+00:00",
+      "scheduled": "2026-05-14T12:05:00+00:00",
+      "time_iso": "2026-05-14T12:05:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "QR5270",
+      "airline": "Qatar Airways",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-05-13T19:10:00+00:00",
+      "time_iso": "2026-05-13T19:16:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "LA3251",
+      "airline": "LATAM Airlines",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-05-13T19:10:00+00:00",
+      "time_iso": "2026-05-13T19:16:00+00:00",
       "status": "pousado"
     }
   ]
