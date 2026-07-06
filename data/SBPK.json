@@ -1,46 +1,18 @@
 {
-  "updated_at": "2026-07-05T13:43:38.249179+00:00",
+  "updated_at": "2026-07-06T15:37:22.460858+00:00",
   "airport_icao": "SBPK",
   "airport_name": "SBPK",
   "source": "AviationStack",
   "arrivals": [
     {
-      "callsign": "G32134",
-      "airline": "GOL",
-      "airport": "SBSP",
-      "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-07-04T14:25:00+00:00",
-      "time_iso": "2026-07-04T14:16:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "AD2946",
-      "airline": "Azul",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-07-04T11:30:00+00:00",
-      "time_iso": "2026-07-04T11:26:00+00:00",
-      "status": "pousado"
+      "callsign": "LA3250",
+      "airline": "LATAM Airlines",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-07-06T18:30:00+00:00",
+      "time_iso": "2026-07-06T18:30:00+00:00",
+      "status": "programado"
     }
   ],
-  "departures": [
-    {
-      "callsign": "G32135",
-      "airline": "GOL",
-      "airport": "SBSP",
-      "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-07-04T15:10:00+00:00",
-      "time_iso": "2026-07-04T15:09:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "AD2953",
-      "airline": "Azul",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-07-04T12:05:00+00:00",
-      "time_iso": "2026-07-04T11:59:00+00:00",
-      "status": "pousado"
-    }
-  ]
+  "departures": []
 }
