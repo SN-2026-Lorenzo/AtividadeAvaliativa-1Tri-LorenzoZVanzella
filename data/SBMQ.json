@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T16:06:31.613659+00:00",
+  "updated_at": "2026-09-10T15:59:52.533816+00:00",
   "airport_icao": "SBMQ",
   "airport_name": "Macapa",
   "source": "AviationStack",
@@ -9,8 +9,170 @@
       "airline": "LATAM Airlines",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-09-10T13:15:00+00:00",
+      "time_iso": "2026-09-10T13:28:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "LA3899",
+      "airline": "LATAM Airlines",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-09-10T16:30:00+00:00",
+      "time_iso": "2026-09-10T16:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "QR5163",
+      "airline": "Qatar Airways",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-09-10T13:15:00+00:00",
+      "time_iso": "2026-09-10T13:23:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "TP6299",
+      "airline": "TAP Air Portugal",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-09-10T13:15:00+00:00",
+      "time_iso": "2026-09-10T13:28:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "QR5269",
+      "airline": "Qatar Airways",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-09-10T13:15:00+00:00",
+      "time_iso": "2026-09-10T13:28:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "AR8082",
+      "airline": "Aerolineas Argentinas",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-09-10T13:15:00+00:00",
+      "time_iso": "2026-09-10T13:28:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "AD4840",
+      "airline": "Azul",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-09-10T13:55:00+00:00",
+      "time_iso": "2026-09-10T13:55:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "TP5017",
+      "airline": "TAP Air Portugal",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-09-10T13:55:00+00:00",
+      "time_iso": "2026-09-10T13:55:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "G32006",
+      "airline": "GOL",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-09-10T13:40:00+00:00",
+      "time_iso": "2026-09-10T13:40:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "KL9446",
+      "airline": "KLM",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-09-10T13:40:00+00:00",
+      "time_iso": "2026-09-10T13:40:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "LA3860",
+      "airline": "LATAM Airlines",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-09-10T13:15:00+00:00",
+      "time_iso": "2026-09-10T13:15:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AD4234",
+      "airline": "Azul",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-09-10T03:10:00+00:00",
+      "time_iso": "2026-09-10T03:00:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "TP5091",
+      "airline": "TAP Air Portugal",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-09-10T03:10:00+00:00",
+      "time_iso": "2026-09-10T03:00:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "G31732",
+      "airline": "GOL",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-09-10T01:45:00+00:00",
+      "time_iso": "2026-09-10T02:04:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "JJ3768",
+      "airline": "LATAM Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-10T02:30:00+00:00",
+      "time_iso": "2026-09-10T02:12:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "LA3768",
+      "airline": "LATAM Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-10T02:30:00+00:00",
+      "time_iso": "2026-09-10T02:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP5727",
+      "airline": "TAP Air Portugal",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-10T02:30:00+00:00",
+      "time_iso": "2026-09-10T02:12:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "JJ3899",
+      "airline": "LATAM Airlines",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-09-09T16:30:00+00:00",
+      "time_iso": "2026-09-09T16:43:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3860",
+      "airline": "LATAM Airlines",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-09-09T13:15:00+00:00",
-      "time_iso": "2026-09-09T13:36:00+00:00",
+      "time_iso": "2026-09-09T13:33:00+00:00",
       "status": "programado"
     },
     {
@@ -20,7 +182,7 @@
       "airport_name": "Belem",
       "scheduled": "2026-09-09T16:30:00+00:00",
       "time_iso": "2026-09-09T16:30:00+00:00",
-      "status": "programado"
+      "status": "em voo"
     },
     {
       "callsign": "QR5269",
@@ -28,7 +190,7 @@
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-09-09T13:15:00+00:00",
-      "time_iso": "2026-09-09T13:36:00+00:00",
+      "time_iso": "2026-09-09T13:33:00+00:00",
       "status": "programado"
     },
     {
@@ -37,7 +199,7 @@
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-09-09T13:15:00+00:00",
-      "time_iso": "2026-09-09T13:36:00+00:00",
+      "time_iso": "2026-09-09T13:33:00+00:00",
       "status": "programado"
     },
     {
@@ -46,7 +208,7 @@
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-09-09T13:15:00+00:00",
-      "time_iso": "2026-09-09T13:36:00+00:00",
+      "time_iso": "2026-09-09T13:33:00+00:00",
       "status": "programado"
     },
     {
@@ -55,7 +217,7 @@
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-09-09T13:15:00+00:00",
-      "time_iso": "2026-09-09T13:36:00+00:00",
+      "time_iso": "2026-09-09T13:33:00+00:00",
       "status": "programado"
     },
     {
@@ -64,8 +226,8 @@
       "airport": "SBBE",
       "airport_name": "Belem",
       "scheduled": "2026-09-09T13:55:00+00:00",
-      "time_iso": "2026-09-09T13:55:00+00:00",
-      "status": "programado"
+      "time_iso": "2026-09-09T13:44:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "TP5017",
@@ -73,8 +235,8 @@
       "airport": "SBBE",
       "airport_name": "Belem",
       "scheduled": "2026-09-09T13:55:00+00:00",
-      "time_iso": "2026-09-09T13:55:00+00:00",
-      "status": "programado"
+      "time_iso": "2026-09-09T13:44:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "G32006",
@@ -82,8 +244,8 @@
       "airport": "SBBE",
       "airport_name": "Belem",
       "scheduled": "2026-09-09T13:40:00+00:00",
-      "time_iso": "2026-09-09T13:40:00+00:00",
-      "status": "programado"
+      "time_iso": "2026-09-09T13:34:00+00:00",
+      "status": "em voo"
     },
     {
       "callsign": "KL9446",
@@ -91,8 +253,8 @@
       "airport": "SBBE",
       "airport_name": "Belem",
       "scheduled": "2026-09-09T13:40:00+00:00",
-      "time_iso": "2026-09-09T13:40:00+00:00",
-      "status": "programado"
+      "time_iso": "2026-09-09T13:34:00+00:00",
+      "status": "em voo"
     },
     {
       "callsign": "LA3860",
@@ -129,171 +291,225 @@
       "scheduled": "2026-09-09T03:10:00+00:00",
       "time_iso": "2026-09-09T02:48:00+00:00",
       "status": "pousado"
-    },
-    {
-      "callsign": "JJ3768",
-      "airline": "LATAM Airlines",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-09-09T02:30:00+00:00",
-      "time_iso": "2026-09-09T02:11:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "TP5727",
-      "airline": "TAP Air Portugal",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-09-09T02:30:00+00:00",
-      "time_iso": "2026-09-09T02:11:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "LA3768",
-      "airline": "LATAM Airlines",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-09-09T02:30:00+00:00",
-      "time_iso": "2026-09-09T02:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "JJ3899",
-      "airline": "LATAM Airlines",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-09-08T16:30:00+00:00",
-      "time_iso": "2026-09-08T16:13:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "AD4143",
-      "airline": "Azul",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-09-08T23:05:00+00:00",
-      "time_iso": "2026-09-08T22:50:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ3860",
-      "airline": "LATAM Airlines",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:15:00+00:00",
-      "time_iso": "2026-09-08T12:45:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "LA3899",
-      "airline": "LATAM Airlines",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-09-08T16:30:00+00:00",
-      "time_iso": "2026-09-08T16:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "QR5163",
-      "airline": "Qatar Airways",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:15:00+00:00",
-      "time_iso": "2026-09-08T12:45:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "TP6299",
-      "airline": "TAP Air Portugal",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:15:00+00:00",
-      "time_iso": "2026-09-08T12:45:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "QR5174",
-      "airline": "Qatar Airways",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:15:00+00:00",
-      "time_iso": "2026-09-08T12:45:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "AR8082",
-      "airline": "Aerolineas Argentinas",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:15:00+00:00",
-      "time_iso": "2026-09-08T12:45:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "AD4840",
-      "airline": "Azul",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-09-08T13:55:00+00:00",
-      "time_iso": "2026-09-08T13:41:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "TP5017",
-      "airline": "TAP Air Portugal",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-09-08T13:55:00+00:00",
-      "time_iso": "2026-09-08T13:41:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "G32006",
-      "airline": "GOL",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-09-08T13:40:00+00:00",
-      "time_iso": "2026-09-08T13:35:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "KL9446",
-      "airline": "KLM",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-09-08T13:40:00+00:00",
-      "time_iso": "2026-09-08T13:35:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "LA3860",
-      "airline": "LATAM Airlines",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:15:00+00:00",
-      "time_iso": "2026-09-08T13:15:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AD4234",
-      "airline": "Azul",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-09-08T03:10:00+00:00",
-      "time_iso": "2026-09-08T02:58:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "TP5091",
-      "airline": "TAP Air Portugal",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-09-08T03:10:00+00:00",
-      "time_iso": "2026-09-08T02:58:00+00:00",
-      "status": "pousado"
     }
   ],
   "departures": [
+    {
+      "callsign": "AD4783",
+      "airline": "Azul",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-09-10T19:00:00+00:00",
+      "time_iso": "2026-09-10T19:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP5397",
+      "airline": "TAP Air Portugal",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-09-10T19:00:00+00:00",
+      "time_iso": "2026-09-10T19:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3861",
+      "airline": "LATAM Airlines",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-09-10T17:45:00+00:00",
+      "time_iso": "2026-09-10T17:45:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "QR5107",
+      "airline": "Qatar Airways",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-09-10T17:45:00+00:00",
+      "time_iso": "2026-09-10T17:45:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AR8268",
+      "airline": "Aerolineas Argentinas",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-09-10T17:45:00+00:00",
+      "time_iso": "2026-09-10T17:45:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP6300",
+      "airline": "TAP Air Portugal",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-09-10T17:45:00+00:00",
+      "time_iso": "2026-09-10T17:45:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "QR5201",
+      "airline": "Qatar Airways",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-09-10T17:45:00+00:00",
+      "time_iso": "2026-09-10T17:45:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AR8019",
+      "airline": "Aerolineas Argentinas",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-09-10T17:45:00+00:00",
+      "time_iso": "2026-09-10T17:45:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G32007",
+      "airline": "GOL",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-09-10T15:00:00+00:00",
+      "time_iso": "2026-09-10T15:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP4004",
+      "airline": "TAP Air Portugal",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-09-10T15:00:00+00:00",
+      "time_iso": "2026-09-10T15:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "KL9363",
+      "airline": "KLM",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-09-10T15:00:00+00:00",
+      "time_iso": "2026-09-10T15:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP4190",
+      "airline": "TAP Air Portugal",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-09-10T15:00:00+00:00",
+      "time_iso": "2026-09-10T15:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AF6302",
+      "airline": "Air France",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-09-10T15:00:00+00:00",
+      "time_iso": "2026-09-10T15:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AD2705",
+      "airline": "Azul",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-09-10T14:35:00+00:00",
+      "time_iso": "2026-09-10T14:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP5334",
+      "airline": "TAP Air Portugal",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-09-10T14:35:00+00:00",
+      "time_iso": "2026-09-10T14:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3898",
+      "airline": "LATAM Airlines",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-09-10T13:55:00+00:00",
+      "time_iso": "2026-09-10T13:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "JJ3769",
+      "airline": "LATAM Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-10T03:10:00+00:00",
+      "time_iso": "2026-09-10T03:17:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "AD4235",
+      "airline": "Azul",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-09-10T03:50:00+00:00",
+      "time_iso": "2026-09-10T04:00:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "G31733",
+      "airline": "GOL",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-09-10T03:20:00+00:00",
+      "time_iso": "2026-09-10T03:25:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "TP4074",
+      "airline": "TAP Air Portugal",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-09-10T03:20:00+00:00",
+      "time_iso": "2026-09-10T03:25:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "LA3769",
+      "airline": "LATAM Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-10T03:10:00+00:00",
+      "time_iso": "2026-09-10T03:10:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "TP5689",
+      "airline": "TAP Air Portugal",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-10T03:10:00+00:00",
+      "time_iso": "2026-09-10T03:17:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "JJ3861",
+      "airline": "LATAM Airlines",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-09-09T17:45:00+00:00",
+      "time_iso": "2026-09-09T17:38:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "JJ3898",
+      "airline": "LATAM Airlines",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-09-09T13:55:00+00:00",
+      "time_iso": "2026-09-09T14:18:00+00:00",
+      "status": "pousado"
+    },
     {
       "callsign": "LA3861",
       "airline": "LATAM Airlines",
@@ -310,7 +526,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-09-09T17:45:00+00:00",
       "time_iso": "2026-09-09T17:45:00+00:00",
-      "status": "programado"
+      "status": "em voo"
     },
     {
       "callsign": "AR8019",
@@ -319,7 +535,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-09-09T17:45:00+00:00",
       "time_iso": "2026-09-09T17:45:00+00:00",
-      "status": "programado"
+      "status": "em voo"
     },
     {
       "callsign": "TP6300",
@@ -327,8 +543,8 @@
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-09-09T17:45:00+00:00",
-      "time_iso": "2026-09-09T17:45:00+00:00",
-      "status": "programado"
+      "time_iso": "2026-09-09T17:38:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "QR5107",
@@ -336,8 +552,8 @@
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-09-09T17:45:00+00:00",
-      "time_iso": "2026-09-09T17:45:00+00:00",
-      "status": "programado"
+      "time_iso": "2026-09-09T17:38:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "AR8268",
@@ -345,8 +561,8 @@
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-09-09T17:45:00+00:00",
-      "time_iso": "2026-09-09T17:45:00+00:00",
-      "status": "programado"
+      "time_iso": "2026-09-09T17:38:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "G32007",
@@ -354,8 +570,8 @@
       "airport": "SBBE",
       "airport_name": "Belem",
       "scheduled": "2026-09-09T15:00:00+00:00",
-      "time_iso": "2026-09-09T15:00:00+00:00",
-      "status": "programado"
+      "time_iso": "2026-09-09T15:05:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "TP4190",
@@ -363,8 +579,8 @@
       "airport": "SBBE",
       "airport_name": "Belem",
       "scheduled": "2026-09-09T15:00:00+00:00",
-      "time_iso": "2026-09-09T15:00:00+00:00",
-      "status": "programado"
+      "time_iso": "2026-09-09T15:05:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "KL9363",
@@ -372,8 +588,8 @@
       "airport": "SBBE",
       "airport_name": "Belem",
       "scheduled": "2026-09-09T15:00:00+00:00",
-      "time_iso": "2026-09-09T15:00:00+00:00",
-      "status": "programado"
+      "time_iso": "2026-09-09T15:05:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "TP4004",
@@ -381,8 +597,8 @@
       "airport": "SBBE",
       "airport_name": "Belem",
       "scheduled": "2026-09-09T15:00:00+00:00",
-      "time_iso": "2026-09-09T15:00:00+00:00",
-      "status": "programado"
+      "time_iso": "2026-09-09T15:05:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "AF6302",
@@ -390,8 +606,8 @@
       "airport": "SBBE",
       "airport_name": "Belem",
       "scheduled": "2026-09-09T15:00:00+00:00",
-      "time_iso": "2026-09-09T15:00:00+00:00",
-      "status": "programado"
+      "time_iso": "2026-09-09T15:05:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "AD2705",
@@ -399,8 +615,8 @@
       "airport": "SBBE",
       "airport_name": "Belem",
       "scheduled": "2026-09-09T14:35:00+00:00",
-      "time_iso": "2026-09-09T14:35:00+00:00",
-      "status": "programado"
+      "time_iso": "2026-09-09T14:45:00+00:00",
+      "status": "em voo"
     },
     {
       "callsign": "TP5334",
@@ -408,8 +624,8 @@
       "airport": "SBBE",
       "airport_name": "Belem",
       "scheduled": "2026-09-09T14:35:00+00:00",
-      "time_iso": "2026-09-09T14:35:00+00:00",
-      "status": "programado"
+      "time_iso": "2026-09-09T14:45:00+00:00",
+      "status": "em voo"
     },
     {
       "callsign": "LA3898",
@@ -418,7 +634,7 @@
       "airport_name": "Belem",
       "scheduled": "2026-09-09T13:55:00+00:00",
       "time_iso": "2026-09-09T13:55:00+00:00",
-      "status": "programado"
+      "status": "em voo"
     },
     {
       "callsign": "JJ3769",
@@ -454,213 +670,6 @@
       "airport_name": "Brasilia",
       "scheduled": "2026-09-09T03:10:00+00:00",
       "time_iso": "2026-09-09T03:05:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "JJ3861",
-      "airline": "LATAM Airlines",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T17:10:00+00:00",
-      "time_iso": "2026-09-08T17:06:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "AD4144",
-      "airline": "Azul",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-09-08T23:50:00+00:00",
-      "time_iso": "2026-09-08T23:39:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "JJ3898",
-      "airline": "LATAM Airlines",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-09-08T13:55:00+00:00",
-      "time_iso": "2026-09-08T13:48:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "AD4783",
-      "airline": "Azul",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-09-08T19:00:00+00:00",
-      "time_iso": "2026-09-08T18:56:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "TP5397",
-      "airline": "TAP Air Portugal",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-09-08T19:00:00+00:00",
-      "time_iso": "2026-09-08T18:56:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "LA3861",
-      "airline": "LATAM Airlines",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T17:10:00+00:00",
-      "time_iso": "2026-09-08T17:10:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "QR5107",
-      "airline": "Qatar Airways",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T17:10:00+00:00",
-      "time_iso": "2026-09-08T17:06:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "AR8268",
-      "airline": "Aerolineas Argentinas",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T17:10:00+00:00",
-      "time_iso": "2026-09-08T17:06:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "TP6300",
-      "airline": "TAP Air Portugal",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T17:10:00+00:00",
-      "time_iso": "2026-09-08T17:06:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "QR8418",
-      "airline": "Qatar Airways",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T17:10:00+00:00",
-      "time_iso": "2026-09-08T17:06:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "AR8019",
-      "airline": "Aerolineas Argentinas",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T17:10:00+00:00",
-      "time_iso": "2026-09-08T17:06:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "G32007",
-      "airline": "GOL",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-09-08T15:00:00+00:00",
-      "time_iso": "2026-09-08T15:01:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "TP4004",
-      "airline": "TAP Air Portugal",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-09-08T15:00:00+00:00",
-      "time_iso": "2026-09-08T15:01:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "KL9363",
-      "airline": "KLM",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-09-08T15:00:00+00:00",
-      "time_iso": "2026-09-08T15:01:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "TP4190",
-      "airline": "TAP Air Portugal",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-09-08T15:00:00+00:00",
-      "time_iso": "2026-09-08T15:01:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "AF6302",
-      "airline": "Air France",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-09-08T15:00:00+00:00",
-      "time_iso": "2026-09-08T15:01:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "AD2705",
-      "airline": "Azul",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-09-08T14:35:00+00:00",
-      "time_iso": "2026-09-08T14:38:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "TP5334",
-      "airline": "TAP Air Portugal",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-09-08T14:35:00+00:00",
-      "time_iso": "2026-09-08T14:38:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "LA3898",
-      "airline": "LATAM Airlines",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-09-08T13:55:00+00:00",
-      "time_iso": "2026-09-08T13:55:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ3769",
-      "airline": "LATAM Airlines",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T03:10:00+00:00",
-      "time_iso": "2026-09-08T03:19:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "AD4235",
-      "airline": "Azul",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-09-08T03:50:00+00:00",
-      "time_iso": "2026-09-08T03:44:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "LA3769",
-      "airline": "LATAM Airlines",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T03:10:00+00:00",
-      "time_iso": "2026-09-08T03:10:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "TP5689",
-      "airline": "TAP Air Portugal",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T03:10:00+00:00",
-      "time_iso": "2026-09-08T03:19:00+00:00",
       "status": "pousado"
     }
   ]
