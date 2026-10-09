@@ -1,17 +1,26 @@
 {
-  "updated_at": "2026-10-08T18:34:39.208012+00:00",
+  "updated_at": "2026-10-09T18:05:49.921530+00:00",
   "airport_icao": "SBPK",
   "airport_name": "SBPK",
   "source": "AviationStack",
   "arrivals": [
+    {
+      "callsign": "LA3250",
+      "airline": "LATAM Airlines",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-10-09T18:30:00+00:00",
+      "time_iso": "2026-10-09T18:30:00+00:00",
+      "status": "programado"
+    },
     {
       "callsign": "G32134",
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
       "scheduled": "2026-10-08T14:55:00+00:00",
-      "time_iso": "2026-10-08T15:10:00+00:00",
-      "status": "em voo"
+      "time_iso": "2026-10-08T15:08:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "AD2946",
@@ -20,34 +29,7 @@
       "airport_name": "Porto Alegre",
       "scheduled": "2026-10-08T11:30:00+00:00",
       "time_iso": "2026-10-08T11:30:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ3250",
-      "airline": "LATAM Airlines",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-10-07T18:30:00+00:00",
-      "time_iso": "2026-10-07T19:03:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "QR5217",
-      "airline": "Qatar Airways",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-10-07T18:30:00+00:00",
-      "time_iso": "2026-10-07T19:03:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "LA3250",
-      "airline": "LATAM Airlines",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-10-07T18:30:00+00:00",
-      "time_iso": "2026-10-07T18:30:00+00:00",
-      "status": "pousado"
+      "status": "programado"
     }
   ],
   "departures": [
@@ -57,8 +39,8 @@
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
       "scheduled": "2026-10-08T15:35:00+00:00",
-      "time_iso": "2026-10-08T15:35:00+00:00",
-      "status": "em voo"
+      "time_iso": "2026-10-08T15:49:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "AD2953",
@@ -68,33 +50,6 @@
       "scheduled": "2026-10-08T12:05:00+00:00",
       "time_iso": "2026-10-08T12:05:00+00:00",
       "status": "programado"
-    },
-    {
-      "callsign": "JJ3251",
-      "airline": "LATAM Airlines",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-10-07T19:10:00+00:00",
-      "time_iso": "2026-10-07T19:42:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "QR5208",
-      "airline": "Qatar Airways",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-10-07T19:10:00+00:00",
-      "time_iso": "2026-10-07T19:42:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "LA3251",
-      "airline": "LATAM Airlines",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-10-07T19:10:00+00:00",
-      "time_iso": "2026-10-07T19:10:00+00:00",
-      "status": "em voo"
     }
   ]
 }
