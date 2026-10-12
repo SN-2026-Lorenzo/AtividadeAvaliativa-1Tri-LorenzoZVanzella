@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-10-11T17:28:30.824021+00:00",
+  "updated_at": "2026-10-12T21:01:34.049279+00:00",
   "airport_icao": "SBPK",
   "airport_name": "SBPK",
   "source": "AviationStack",
   "arrivals": [
     {
-      "callsign": "G32134",
-      "airline": "GOL",
-      "airport": "SBSP",
-      "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-10-10T14:25:00+00:00",
-      "time_iso": "2026-10-10T14:00:00+00:00",
-      "status": "pousado"
+      "callsign": "QR5246",
+      "airline": "Qatar Airways",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-10-12T18:30:00+00:00",
+      "time_iso": "2026-10-12T18:15:00+00:00",
+      "status": "em voo"
     },
     {
-      "callsign": "AD2946",
-      "airline": "Azul",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-10-10T11:30:00+00:00",
-      "time_iso": "2026-10-10T11:14:00+00:00",
-      "status": "pousado"
+      "callsign": "LA3250",
+      "airline": "LATAM Airlines",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-10-12T18:30:00+00:00",
+      "time_iso": "2026-10-12T18:15:00+00:00",
+      "status": "em voo"
     }
   ],
   "departures": [
     {
-      "callsign": "G32135",
-      "airline": "GOL",
-      "airport": "SBSP",
-      "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-10-10T15:10:00+00:00",
-      "time_iso": "2026-10-10T15:06:00+00:00",
-      "status": "pousado"
+      "callsign": "QR8462",
+      "airline": "Qatar Airways",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-10-12T19:10:00+00:00",
+      "time_iso": "2026-10-12T19:10:00+00:00",
+      "status": "programado"
     },
     {
-      "callsign": "AD2953",
-      "airline": "Azul",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-10-10T12:05:00+00:00",
-      "time_iso": "2026-10-10T11:59:00+00:00",
-      "status": "pousado"
+      "callsign": "LA3251",
+      "airline": "LATAM Airlines",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-10-12T19:10:00+00:00",
+      "time_iso": "2026-10-12T19:10:00+00:00",
+      "status": "programado"
     }
   ]
 }
