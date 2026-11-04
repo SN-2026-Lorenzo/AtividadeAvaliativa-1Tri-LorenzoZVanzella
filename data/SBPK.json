@@ -1,17 +1,44 @@
 {
-  "updated_at": "2026-11-03T19:13:27.845424+00:00",
+  "updated_at": "2026-11-04T19:29:11.313052+00:00",
   "airport_icao": "SBPK",
   "airport_name": "SBPK",
   "source": "AviationStack",
   "arrivals": [
+    {
+      "callsign": "JJ4744",
+      "airline": "LATAM Airlines",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-11-04T17:20:00+00:00",
+      "time_iso": "2026-11-04T17:15:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "QR5200",
+      "airline": "Qatar Airways",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-11-04T17:20:00+00:00",
+      "time_iso": "2026-11-04T17:15:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "LA4744",
+      "airline": "LATAM Airlines",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-11-04T17:20:00+00:00",
+      "time_iso": "2026-11-04T17:20:00+00:00",
+      "status": "em voo"
+    },
     {
       "callsign": "G32134",
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
       "scheduled": "2026-11-03T15:30:00+00:00",
-      "time_iso": "2026-11-03T15:48:00+00:00",
-      "status": "programado"
+      "time_iso": "2026-11-03T15:49:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "AD2946",
@@ -25,13 +52,31 @@
   ],
   "departures": [
     {
+      "callsign": "LA4745",
+      "airline": "LATAM Airlines",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-11-04T18:00:00+00:00",
+      "time_iso": "2026-11-04T18:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "QR5208",
+      "airline": "Qatar Airways",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-11-04T18:00:00+00:00",
+      "time_iso": "2026-11-04T18:00:00+00:00",
+      "status": "programado"
+    },
+    {
       "callsign": "G32135",
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
       "scheduled": "2026-11-03T16:10:00+00:00",
-      "time_iso": "2026-11-03T16:10:00+00:00",
-      "status": "em voo"
+      "time_iso": "2026-11-03T16:29:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "AD2953",
@@ -40,7 +85,7 @@
       "airport_name": "Porto Alegre",
       "scheduled": "2026-11-03T12:05:00+00:00",
       "time_iso": "2026-11-03T12:08:00+00:00",
-      "status": "em voo"
+      "status": "pousado"
     }
   ]
 }
