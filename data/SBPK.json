@@ -1,20 +1,56 @@
 {
-  "updated_at": "2026-11-09T22:01:33.888375+00:00",
+  "updated_at": "2026-11-10T19:26:09.380891+00:00",
   "airport_icao": "SBPK",
   "airport_name": "SBPK",
   "source": "AviationStack",
   "arrivals": [
+    {
+      "callsign": "G32134",
+      "airline": "GOL",
+      "airport": "SBSP",
+      "airport_name": "Sao Paulo / Congonhas",
+      "scheduled": "2026-11-10T15:30:00+00:00",
+      "time_iso": "2026-11-10T15:24:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "AD2946",
+      "airline": "Azul",
+      "airport": "SBPA",
+      "airport_name": "Porto Alegre",
+      "scheduled": "2026-11-10T11:30:00+00:00",
+      "time_iso": "2026-11-10T11:17:00+00:00",
+      "status": "em voo"
+    },
     {
       "callsign": "AD2832",
       "airline": "Azul",
       "airport": "SBKP",
       "airport_name": "Campinas / Viracopos",
       "scheduled": "2026-11-09T16:05:00+00:00",
-      "time_iso": "2026-11-09T16:11:00+00:00",
+      "time_iso": "2026-11-09T16:10:00+00:00",
       "status": "em voo"
     }
   ],
   "departures": [
+    {
+      "callsign": "G32135",
+      "airline": "GOL",
+      "airport": "SBSP",
+      "airport_name": "Sao Paulo / Congonhas",
+      "scheduled": "2026-11-10T16:10:00+00:00",
+      "time_iso": "2026-11-10T16:10:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "AD2953",
+      "airline": "Azul",
+      "airport": "SBPA",
+      "airport_name": "Porto Alegre",
+      "scheduled": "2026-11-10T12:05:00+00:00",
+      "time_iso": "2026-11-10T11:59:00+00:00",
+      "status": "pousado"
+    },
     {
       "callsign": "AD2833",
       "airline": "Azul",
@@ -22,7 +58,7 @@
       "airport_name": "Campinas / Viracopos",
       "scheduled": "2026-11-09T16:45:00+00:00",
       "time_iso": "2026-11-09T16:55:00+00:00",
-      "status": "programado"
+      "status": "pousado"
     }
   ]
 }
